@@ -91,14 +91,14 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Project
 
-# Completed
+### Completed
 
  *  Add a Tabs component that will render it's children (Tab)
  *  Add a Tab component that will have a title, and content.
  *  Render the tabs, and a content region that will be the contents of the selected tab.
  *  Highlight the Tab component with a "Tab--selected" classname when it's selected.
 
- # TODO
+ ### TODO
  *  Manage the which tab is selected using the Tabs component's state.
 
 ## Updating to New Releases
